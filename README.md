@@ -2,7 +2,7 @@
 
 A simple, open-source, userscript editor for Safari.
 
-![InjectJS for Safari](/etc/screenshot.png)
+![InjectJS for Safari](/etc/App%20Store%20Screenshot.png)
 
 ## Installation
 
