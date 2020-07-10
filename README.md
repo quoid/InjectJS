@@ -6,7 +6,7 @@ A simple, open-source, userscript editor for Safari.
 
 ## Installation
 
-~~Install via [Mac App Store](https://itunes.apple.com/us/app/userscripts/id1463298887) or clone the project and build with Xcode.~~
+Install via [Mac App Store](https://apps.apple.com/us/app/injectjs/id1515350193) or clone the project and build with Xcode.
 
 ## Usage
 
